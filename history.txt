@@ -1,0 +1,36 @@
+   70  head Penoms.csv
+   71  head Prenoms.csv
+   72  grep "f;french" < Prenoms.csv | wc -l
+   73  head wilders.csv
+   74  man ls
+   75  grep PHP wilders.csv > php_france_2019.csv
+   76  cat php_france_2019.csv
+   77  grep Toulouse wilders.csv > toulouse.csv
+   78  grep Biarritz wilders.csv > biarritz.csv
+   79  grep Javascript toulouse.csv 
+   80  cat toulouse.csv
+   81  cat toulouse.csv > toulouse.csv
+   82  cat toulouse.csv
+   83  grep Javascript toulouse.csv > toulouse.csv
+   84  cat toulouse.csv
+   85  cat
+   86  grep Toulouse wilders.csv > toulouse.csv
+   87  cat toulouse.csv
+   88  grep Toulouse wilders.csv > toulousejs.csv
+   89  grep Javascript toulouse.csv > toulousejs.csv
+   90  cat toulousejs.csv
+   91  grep JavaScript toulouse.csv > toulousejs.csv
+   92  cat toulousejs.csv
+   93  grep JavaScript biarritz.csv > biarritz.csv
+   94  cat biarritz.csv
+   95  grep Biarritz wilders.csv > biarritz.csv
+   96  grep JavaScript biarritz.csv > biarritzjs.csv
+   97  cat biarritzjs.csv toulousejs.csv | javascript_biarritz_toulouse.csv
+   98  cat biarritzjs.csv toulousejs.csv > javascript_biarritz_toulouse.csv
+   99  cat javascript_biarritz_toulouse.csv
+  100  history | tail -n 70 > history.txt
+  101  cat history.txt
+  102  history | tail -n 200 > history.txt
+  103  cat history.txt
+  104  history
+  105  history 70
